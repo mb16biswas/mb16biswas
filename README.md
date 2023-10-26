@@ -6,6 +6,8 @@
 
 ###
 
+<h3 align="left">I mostly use</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -38,15 +40,15 @@
 
 ###
 
-<p align="left">I mostly use</p>
 
-<div align="left">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mb16biswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
 
 ###
-<p align="left">Connect me :)</p>
+<h3 align="left">Connect me :)</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/momojit-biswas-7b5880210/" target="_blank">
