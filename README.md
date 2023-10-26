@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋! My name is Momojit Biswas</h2>
+<h1 align="center">Hi 👋! My name is Momojit Biswas</h2>
 
 ###
 
-<h2 align="left">Exploring the Boundaries of Data Realms: Weaving Insights Through Deep Learning, NLP, and Computer Vision at the Intersection of Research and Engineering</h4>
+<h2 align="center">Exploring the Boundaries of Data Realms: Weaving Insights Through Deep Learning, NLP, and Computer Vision at the Intersection of Research and Engineering</h4>
 
 ###
 
-<h3 align="left">I mostly use</h3>
+<h3 align="center">I mostly use</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -48,9 +48,9 @@
 </div>
 
 ###
-<h3 align="left">Connect me :)</h3>
+<h3 align="center">Connect me :)</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/momojit-biswas-7b5880210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
